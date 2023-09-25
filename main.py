@@ -7,11 +7,6 @@ import cv2
 from moviepy import editor
 import moviepy
 
-print(pd.__version__)
-print(np.__version__)
-print(moviepy.__version__)
-
-
 
 def process_video(test_video, output_video):
     input_video = editor.VideoFileClip(test_video, audio=False)
