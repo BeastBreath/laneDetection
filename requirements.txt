@@ -1,0 +1,4 @@
+pandas==2.1.1
+numpy==1.26.0
+moviepy==1.0.3
+opencv-python==4.8.0
